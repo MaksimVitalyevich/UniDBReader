@@ -1,0 +1,12 @@
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\bin\Debug\UniDataReader.exe.config
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\bin\Debug\UniDataReader.exe
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\bin\Debug\UniDataReader.pdb
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\obj\Debug\UniDataReader.csproj.AssemblyReference.cache
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\obj\Debug\UniDataReader.ProviderConnForm.resources
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\obj\Debug\UniDataReader.Properties.Resources.resources
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\obj\Debug\UniDataReader.QueryForm.resources
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\obj\Debug\UniDataReader.TimeoutForm.resources
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\obj\Debug\UniDataReader.csproj.GenerateResource.cache
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\obj\Debug\UniDataReader.csproj.CoreCompileInputs.cache
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\obj\Debug\UniDataReader.exe
+C:\Users\СтудентВА\source\repos\UniDataReader\UniDataReader\obj\Debug\UniDataReader.pdb
